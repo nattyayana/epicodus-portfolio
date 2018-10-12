@@ -11,7 +11,7 @@ p {
 
 img {
 
-  float: left;
+  float: right;
 
 }
 
@@ -21,17 +21,17 @@ img {
 
 }
 
-.truely {
+.black {
 
-  color: red;
+  color: black;
 
 }
 
-.aboutme{
+.box {
 
-  margin: 12px;
-  border: 15px solid red;
-  padding: 4px;
+  margin: 60px;
+  border: 10px solid red;
+  padding: 10px;
   background-color: grey;
 
 }

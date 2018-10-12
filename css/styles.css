@@ -1,4 +1,8 @@
+body {
+  color: white;
+  background: black;
 
+}
 p {
 
   word-wrap: break-word;
@@ -6,10 +10,28 @@ p {
 }
 
 img {
+
   float: left;
 
 }
 
 .natty {
+
   float: ;
+
+}
+
+.truely {
+
+  color: red;
+
+}
+
+.aboutme{
+
+  margin: 12px;
+  border: 15px solid red;
+  padding: 4px;
+  background-color: grey;
+
 }

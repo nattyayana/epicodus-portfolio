@@ -10,13 +10,7 @@ _A start of a live resume that I will be editing as I learn new functions and ap
 
 ## Setup/Installation Requirements
 
-* __
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-
+* copy clone line and imput "git clone "url" " 
 
 ## Known Bugs
 
